@@ -7,5 +7,3 @@ Our code snippets are user-friendly and can be easily integrated into various pr
 By simplifying the FRP bypass process, our repository aims to enhance user accessibility on Android devices and provide a seamless experience for users encountering FRP lock issues. We encourage you to explore our code snippets, contribute to our repository, and join us in our mission to streamline FRP bypass and empower users with greater control over their devices' functionalities.
 
 Together, let's make FRP bypass easier and more accessible for everyone.
-
-Make it short
